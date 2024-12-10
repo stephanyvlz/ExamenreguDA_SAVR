@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "m4ZE3B+bUMfmF/rCQzvY8KK37Ru+d15fkPm1ywWFayl3trujuxrs8YtTtbLS9/Cn8McKIYsN3IfNlOQGg+lBVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cd18\\Downloads\\c# sv\\Examen2_DA_SAVR\\Examen2_DA_savr.iOS\\Examen2_DA_savr.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cd18\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\cd18\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\cd18\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

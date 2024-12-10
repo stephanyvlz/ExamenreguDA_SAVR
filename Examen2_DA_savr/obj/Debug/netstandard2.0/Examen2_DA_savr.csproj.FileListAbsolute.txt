@@ -1,0 +1,15 @@
+C:\Users\cd18\Downloads\c# sv\Examen2_DA_savr\Examen2_DA_savr\bin\Debug\netstandard2.0\Examen2_DA_savr.deps.json
+C:\Users\cd18\Downloads\c# sv\Examen2_DA_savr\Examen2_DA_savr\bin\Debug\netstandard2.0\Examen2_DA_savr.dll
+C:\Users\cd18\Downloads\c# sv\Examen2_DA_savr\Examen2_DA_savr\bin\Debug\netstandard2.0\Examen2_DA_savr.pdb
+C:\Users\cd18\Downloads\c# sv\Examen2_DA_savr\Examen2_DA_savr\obj\Debug\netstandard2.0\Examen2_DA_savr.csproj.AssemblyReference.cache
+C:\Users\cd18\Downloads\c# sv\Examen2_DA_savr\Examen2_DA_savr\obj\Debug\netstandard2.0\Examen2_DA_savr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd18\Downloads\c# sv\Examen2_DA_savr\Examen2_DA_savr\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cd18\Downloads\c# sv\Examen2_DA_savr\Examen2_DA_savr\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cd18\Downloads\c# sv\Examen2_DA_savr\Examen2_DA_savr\obj\Debug\netstandard2.0\Examen2_DA_savr.AssemblyInfoInputs.cache
+C:\Users\cd18\Downloads\c# sv\Examen2_DA_savr\Examen2_DA_savr\obj\Debug\netstandard2.0\Examen2_DA_savr.AssemblyInfo.cs
+C:\Users\cd18\Downloads\c# sv\Examen2_DA_savr\Examen2_DA_savr\obj\Debug\netstandard2.0\Examen2_DA_savr.csproj.CoreCompileInputs.cache
+C:\Users\cd18\Downloads\c# sv\Examen2_DA_savr\Examen2_DA_savr\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cd18\Downloads\c# sv\Examen2_DA_savr\Examen2_DA_savr\obj\Debug\netstandard2.0\Examen2_DA_savr.dll
+C:\Users\cd18\Downloads\c# sv\Examen2_DA_savr\Examen2_DA_savr\obj\Debug\netstandard2.0\refint\Examen2_DA_savr.dll
+C:\Users\cd18\Downloads\c# sv\Examen2_DA_savr\Examen2_DA_savr\obj\Debug\netstandard2.0\Examen2_DA_savr.pdb
+C:\Users\cd18\Downloads\c# sv\Examen2_DA_savr\Examen2_DA_savr\obj\Debug\netstandard2.0\ref\Examen2_DA_savr.dll

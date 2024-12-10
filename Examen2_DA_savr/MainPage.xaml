@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Examen2_DA_savr.MainPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Ingresa la cantidad de latidos detectados en 15 segundos" />
+            <Entry Placeholder="" Text="{Binding latidos}" TextColor="DarkGray"/>
+            <Button Text="Calculo" Command="{Binding CommandCalculo}"/>
+            <Label Text="{Binding resultado}" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
